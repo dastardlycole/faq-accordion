@@ -1,0 +1,11 @@
+body {
+    background-color:hsl(275, 100%, 97%)
+}
+.accordion{
+    background-color: white;
+    width: 500px;
+    border-radius: 10px;
+    margin: 400px auto;
+    padding: 20px;
+    
+}
